@@ -31,13 +31,23 @@ body {
     color: white;
     background-color: brown;
 }
-
 .b:hover {
     color: white;
     background-color: blueviolet;
 }
-
 .c:hover {
     color: white;
     background-color: olive;
+}
+.d:hover {
+    color: white;
+    background-color: chocolate;
+}
+.e:hover {
+    color: white;
+    background-color: darkmagenta;
+}
+.f:hover {
+    color: white;
+    background-color: darkslategray;
 }
