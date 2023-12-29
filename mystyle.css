@@ -67,3 +67,23 @@ body {
     color: white;
     background-color: darkgoldenrod;
 }
+.k:hover {
+    color: white;
+    background-color: seagreen;
+}
+.l:hover {
+    color: white;
+    background-color: indianred;
+}
+.m:hover {
+    color: white;
+    background-color: indigo;
+}
+.n:hover {
+    color: white;
+    background-color: coral;
+}
+.o:hover {
+    color: white;
+    background-color: royalblue;
+}
