@@ -26,64 +26,52 @@ body {
     font-size: 20px;
     font-weight: bold;
 }
+.item:hover {
+    color: white;
+}
 
 .a:hover {
-    color: white;
     background-color: brown;
 }
 .b:hover {
-    color: white;
     background-color: blueviolet;
 }
 .c:hover {
-    color: white;
     background-color: olive;
 }
 .d:hover {
-    color: white;
     background-color: chocolate;
 }
 .e:hover {
-    color: white;
     background-color: darkmagenta;
 }
 .f:hover {
-    color: white;
     background-color: darkslategray;
 }
 .g:hover {
-    color: white;
     background-color: darkcyan;
 }
 .h:hover {
-    color: white;
     background-color: salmon;
 }
 .i:hover {
-    color: white;
     background-color: darkgreen;
 }
 .j:hover {
-    color: white;
     background-color: darkgoldenrod;
 }
 .k:hover {
-    color: white;
     background-color: seagreen;
 }
 .l:hover {
-    color: white;
     background-color: indianred;
 }
 .m:hover {
-    color: white;
     background-color: indigo;
 }
 .n:hover {
-    color: white;
     background-color: coral;
 }
 .o:hover {
-    color: white;
     background-color: royalblue;
 }
