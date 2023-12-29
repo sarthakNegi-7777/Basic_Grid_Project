@@ -51,3 +51,19 @@ body {
     color: white;
     background-color: darkslategray;
 }
+.g:hover {
+    color: white;
+    background-color: darkcyan;
+}
+.h:hover {
+    color: white;
+    background-color: salmon;
+}
+.i:hover {
+    color: white;
+    background-color: darkgreen;
+}
+.j:hover {
+    color: white;
+    background-color: darkgoldenrod;
+}
